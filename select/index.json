@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ニホンバレデンセツ",
+  "base_artist": "FES☆TIVE",
+  "createdAt": "2026-03-02T14:31:40.461422Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ニホンバレデンセツ",
+      "artist": "FES☆TIVE",
+      "has_synced": false,
+      "path": "select/pl_01_ニホンバレデンセツ_FES☆TIVE.txt"
+    }
+  ]
+}
